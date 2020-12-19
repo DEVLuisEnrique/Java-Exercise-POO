@@ -11,6 +11,7 @@ public class Main {
 		circle1.setRadioCirculo(10);
 		float area = circle1.area();
 		JOptionPane.showMessageDialog(null,"Area del Circulo es: "+ area);
+		
 	}
 
 }
